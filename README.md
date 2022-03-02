@@ -38,6 +38,10 @@ sudo make install
 | spawn-fcgi | spawn-fcgi-1.6.4 |
 | flup | flup-1.0.2 |
 | fastcgi | fcgi2 |
+| Apache2 | apache2-bin, apache2-dev | 
+| g++  |  g++ |
+
+
 
 ### Play examples
 - To record traffic from www.bilibili.com in Chromium:
